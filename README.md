@@ -11,3 +11,8 @@ A group presentation for CEP146 covering the persistent shortage of memory chips
 (link)
 
 ## Contributions
+
+## Some research links
+https://www.jpmorgan.com/insights/global-research/artificial-intelligence/dram-memory-shortage-from-ai
+https://www.cbc.ca/news/business/ram-shortage-consumer-electronics-9.7102991
+https://www.forbes.com/sites/timbajarin/2026/06/23/ais-hidden-cost-the-global-memory-shortage-threat-to-affordable-tech/
