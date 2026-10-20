@@ -1,6 +1,6 @@
-# The continued global memory shortage due to the AI boom
+# The new way of coding from the AI boom
 
-A group presentation for CEP146 covering the persistent shortage of memory chips due to the heightened AI demand. As AI continues to advance, the demand for more memory has skyrocketed. This has caused stock shortages and extremely increased prices for both AI corporations and consumers.
+A group presentation for CEP146 covering a new way to coding caused by AI called vibecoding. Discussing how it works, how effective it is and the many issue and risks regarding creating software using this method.
 
 ## Group members
 - Matthew, 141193250
@@ -13,6 +13,6 @@ A group presentation for CEP146 covering the persistent shortage of memory chips
 ## Contributions
 
 ## Some research links
-https://www.jpmorgan.com/insights/global-research/artificial-intelligence/dram-memory-shortage-from-ai
-https://www.cbc.ca/news/business/ram-shortage-consumer-electronics-9.7102991
-https://www.forbes.com/sites/timbajarin/2026/06/23/ais-hidden-cost-the-global-memory-shortage-threat-to-affordable-tech/
+https://www.brantfordexpositor.ca/opinion/the-vibe-coding-revolution/
+https://retool.com/blog/vibe-coding-risks
+
