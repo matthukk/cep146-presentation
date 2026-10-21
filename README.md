@@ -13,6 +13,7 @@ A group presentation for CEP146 covering a new way to coding caused by AI called
 ## Contributions
 
 ## Some research links
-https://www.brantfordexpositor.ca/opinion/the-vibe-coding-revolution/
+https://www.brantfordexpositor.ca/opinion/the-vibe-coding-revolution
 https://retool.com/blog/vibe-coding-risks
+https://www.pcmag.com/news/vibe-coding-is-causing-thousands-of-data-security-vulnerabilities-says
 
