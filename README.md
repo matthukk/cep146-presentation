@@ -1,13 +1,10 @@
 
 # The new way of coding from the AI boom and its weaknesses, and vulnerabilities
-A group presentation for CEP146 covering a new way to coding caused by AI called vibecoding. Discussing how it works, how effective it is and the many issue and risks regarding creating software using this method.
-
-A group presentation for CEP146 covering the new concept of vibe coding. We detail what vibe coding is, how it is used in todays world, why it is good, why it is bad, and why such a heavy reliance on AI has caused software from large companies to fall victim to security attacks.
-
+A group presentation for CEP146 covering a new way to coding caused by AI called vibecoding. Discussing how it works, how effective it is and the many issue and risks regarding creating software using this method. And why such a heavy reliance on AI has caused software from large companies to fall victim to security attacks.
 
 ## Group members
 - Matthew, 141193250
-- Nicolas, (student num)
+- Nicolas, (146378245)
 - Tchengui, (student num)
 
 ## Youtube Video
