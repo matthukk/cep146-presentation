@@ -4,8 +4,8 @@ A group presentation for CEP146 covering a new way to coding caused by AI called
 
 ## Group members
 - Matthew, 141193250
-- Nicolas, (146378245)
-- Tchengui, (student num)
+- Nicolas, 146378245
+- Tchengui
 
 ## Youtube Video
 (link)
