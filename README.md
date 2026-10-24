@@ -12,6 +12,7 @@ A group presentation for CEP146 covering a new way to coding caused by AI called
 
 ## Contributions
 Nicolas: Drafting, Presentation, Research
+
 Matthew: Research, Editing, Recording
 
 ## Slides
