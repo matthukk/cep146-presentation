@@ -8,7 +8,7 @@ A group presentation for CEP146 covering a new way to coding caused by AI called
 - Tchengui
 
 ## Youtube Video
-(link)
+[(link)](https://youtu.be/9z1Box-LBFA)
 
 ## Contributions
 
