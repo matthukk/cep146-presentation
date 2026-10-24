@@ -11,6 +11,8 @@ A group presentation for CEP146 covering a new way to coding caused by AI called
 [(link)](https://youtu.be/9z1Box-LBFA)
 
 ## Contributions
+Nicolas: Drafting, Presentation, Research
+Matthew: Research, Editing, Recording
 
 ## Slides
 https://seneca-my.sharepoint.com/:p:/g/personal/nsoong_myseneca_ca/IQDKhynmsZNtTLw_JCSOO8UZAcTvOCvvaEe-5y-oYgcKt70?e=6mEanq
